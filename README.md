@@ -24,6 +24,9 @@ Keep in mind that you have to generate your own serial numbers and ID's and stuf
 |**Camera**|720p HD w/ Privacy Shutter|
 |**Battery**|Single 50 Wh|
 
+# Screenshots
+ ![om3raw3n5y491](https://user-images.githubusercontent.com/83172580/173219466-1c9b0e97-0acf-49cd-b23c-3d1e025d5de7.png)
+
 # What Works
 
 * Keyboard (including all media keys)
