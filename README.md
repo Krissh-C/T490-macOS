@@ -1,14 +1,12 @@
 # MacOS on ThinkPad T490
 
-This repository is made to help run macOS on a ThinkPad T490. Currently running 11.6.2 since this isn't the main OS on my computer anymore and I don't really have the time to update it.
+This repository is made to help run macOS on a ThinkPad T490. Currently running macOS Monterey 12.4.
 
 This should help you get started on hackintoshing and any updates can be applied later. I may occasionally update this repo if I find the time but there's no guarantee.
 
 I recommend going through the [Opencore install guide](https://dortania.github.io/OpenCore-Install-Guide/) once to fully understand everything that is going on here. 
 
-Keep in mind that you have to generate your own serial numbers and ID's and stuff using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) (TIP: Use MacBookPro15,4)
-
-**NOTE:** This is only for you to get started. You will have to do your own post-installation/updates/configurations
+Keep in mind that you have to generate your own serial numbers and ID's and stuff using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) if you're doing a fresh install. Use your old ones from your old config.plist if you're just changing EFI's (TIP: Use MacBookPro15,4)
 
 **CAUTION:** Test drive this configuration once using a USB flash drive before you move it to the main EFI partition. I am not responsible for any damages incurred.
 
@@ -68,9 +66,9 @@ Keep in mind that you have to generate your own serial numbers and ID's and stuf
 
 # What doesn't work
 
-* USB-C Audio
+* USB-C Audio when using a display
 
-* SD Card Reader (not useful to me)
+* SD Card Reader (Potential fix soon)
 
 * AirDrop
 
