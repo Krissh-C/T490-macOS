@@ -71,7 +71,7 @@ Keep in mind that you have to generate your own serial numbers and ID's and stuf
 
 * USB-C Audio when using a display
 
-* SD Card Reader (Potential fix soon)
+* SD Card Reader
 
 * AirDrop
 
