@@ -8,6 +8,8 @@ I recommend going through the [Opencore install guide](https://dortania.github.i
 
 Keep in mind that you have to generate your own serial numbers and ID's and stuff using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) if you're doing a fresh install. Use your old ones from your old config.plist if you're just changing EFI's (TIP: Use MacBookPro15,4)
 
+This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen/YogaSMC). After installing, please use the app and the system preferences add on as it enables some features for this to be complete. 
+
 **CAUTION:** Test drive this configuration once using a USB flash drive before you move it to the main EFI partition. I am not responsible for any damages incurred.
 
 # **Hardware Info:**
