@@ -77,6 +77,10 @@ This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen
 
 * AirDrop
 
+* Thunderbolt
+
+* Crashes on boot if there's something plugged in the USB-C port
+
 # Not Tested
 
 * Sidecar
