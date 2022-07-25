@@ -1,12 +1,12 @@
 # MacOS on ThinkPad T490
 
-This repository is made to help run macOS on a ThinkPad T490. Currently running macOS Monterey 12.4.
+This repository is made to help run macOS on a ThinkPad T490. Currently running macOS Monterey 12.5.
 
 This should help you get started on hackintoshing and any updates can be applied later. I may occasionally update this repo if I find the time but there's no guarantee.
 
 I recommend going through the [Opencore install guide](https://dortania.github.io/OpenCore-Install-Guide/) once to fully understand everything that is going on here. 
 
-Keep in mind that you have to generate your own serial numbers and ID's and stuff using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) if you're doing a fresh install. Use your old ones from your old config.plist if you're just changing EFI's (TIP: Use MacBookPro15,4)
+Keep in mind that you have to generate your own serial numbers and ID's and stuff using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) if you're doing a fresh install. Use your old ones from your old config.plist if you're just changing EFI's (TIP: Use MacBookPro15,4 but I've included that in the plist)
 
 This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen/YogaSMC). After installing, please use the app and the system preferences add on as it enables some features for this to be complete. 
 
@@ -27,7 +27,7 @@ This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen
 |**Battery**|Single 50 Wh|
 
 # Screenshots
- ![om3raw3n5y491](https://user-images.githubusercontent.com/83172580/173219466-1c9b0e97-0acf-49cd-b23c-3d1e025d5de7.png)
+![Screen Shot 2022-07-25 at 1 00 27 PM](https://user-images.githubusercontent.com/83172580/180743125-245d7e03-1751-4e0b-ba53-46c122ddc58b.jpg)
 
 # What Works
 
