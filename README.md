@@ -6,6 +6,8 @@ This should help you get started on hackintoshing and any updates can be applied
 
 I recommend going through the [Opencore install guide](https://dortania.github.io/OpenCore-Install-Guide/) once to fully understand everything that is going on here. 
 
+**NOTE:** macOS will not work with Samsung PM981/a drives out of the box. Suggest replacing or not using the drive with macOS.
+
 Keep in mind that you have to generate your own serial numbers and ID's and stuff using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) if you're doing a fresh install. Use your old ones from your old config.plist if you're just changing EFI's (TIP: Use MacBookPro15,4 but I've included that in the plist)
 
 This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen/YogaSMC). After installing, please use the app and the system preferences add on as it enables some features for this to be complete. 
@@ -19,7 +21,8 @@ This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen
 |**CPU**|Intel Core i5-8265u|
 |**GPU**|Intel HD Graphics 620|
 |**RAM**|16GB 3200 MHz DDR4|
-|**Storage** |512GB SAMSUNG MZVLB512HBJQ-000L7|
+|**Storage (Windows)** |512GB SAMSUNG MZVLB512HBJQ-000L7|
+|**Storage (macOS)**|512GB External WD Blue|
 |**WiFi/Bluetooth**|Intel Wireless AC-9560|
 |**Touchpad**|Synaptics|
 |**Display**|14" 1920x1080 IPS Non-Touch|
@@ -39,9 +42,11 @@ This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen
 
 * Display Auto-Brightness
 
-* HDMI video and audio (up to 4K 30Hz because of HDMI 1.4 limitations)
+* HDMI
 
-* Audio
+* Audio (Speakers, Headphone Jack, Bluetooth and USB-C headsets)
+
+* Bluetooth
 
 * Ethernet
 
@@ -57,7 +62,9 @@ This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen
 
 * Trackpad with gestures
 
-* CPU Power Management
+* CPU Power Management (suggest making your own using [CPUFriend](https://github.com/corpnewt/CPUFriendFriend). Included one is balanced with base 500MHz)
+
+* Battery Indicator
 
 * Handoff, Continuity
 
@@ -71,17 +78,17 @@ This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen
 
 # What doesn't work
 
-* USB-C Audio when using a display
-
 * SD Card Reader
 
 * AirDrop
 
 * Thunderbolt
 
-* Crashes on boot if there's something plugged in the USB-C port
+* Very rarely crashes on boot at times
 
 # Not Tested
+
+* USB-C Video
 
 * Sidecar
 
