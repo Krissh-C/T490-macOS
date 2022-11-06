@@ -1,6 +1,3 @@
-# Update
-macOS Ventura coming soon.
-
 # macOS on ThinkPad T490
 This repository is made to help run macOS on a ThinkPad T490.
 
