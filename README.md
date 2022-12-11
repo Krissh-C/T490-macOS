@@ -1,5 +1,9 @@
-# Update
+# Updates
+**Update 1:**
 Finally working on Ventura after exams and school. I'm using the latest stuff as of 11th December 2022 to build. Expect an update soon
+
+**Update 2:**
+Installed and booted into Ventura 13.0.1. Small fixes left (battery, YogaSMC EC Access). Will update soon
 
 # macOS on ThinkPad T490
 This repository is made to help run macOS on a ThinkPad T490.
