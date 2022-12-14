@@ -1,12 +1,5 @@
 # Updates
-**Update 1:**
-Finally working on Ventura after exams and school. I'm using the latest stuff as of 11th December 2022 to build. Expect an update soon
-
-**Update 2:**
-Installed and booted into Ventura 13.0.1. Small fixes left (battery, YogaSMC EC Access). Will update soon
-
-**Update 3:**
-Fixed battery reporting, YogaSMC EC access. Squashing some small boot issues
+EFI for macOS Ventura is out. Built using latest stuff as of 11th December 2022
 
 # macOS on ThinkPad T490
 This repository is made to help run macOS on a ThinkPad T490.
@@ -39,7 +32,7 @@ This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen
 |**Battery**| Single 50 Wh |
 
 # Screenshots
-![Screen Shot 2022-07-25 at 1 00 27 PM](https://user-images.githubusercontent.com/83172580/180743125-245d7e03-1751-4e0b-ba53-46c122ddc58b.jpg)
+![aboutmac](https://user-images.githubusercontent.com/117280851/207616017-8975c9c1-efeb-4435-8456-18c589f0d8a8.png)
 
 # What Works
 - Keyboard (including all media keys)
@@ -56,7 +49,7 @@ This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen
 - Microphone
 - Sleep/Wake
 - Trackpad with gestures
-- CPU Power Management (suggest making your own using [CPUFriend](https://github.com/corpnewt/CPUFriendFriend). Included one is balanced with base 500MHz)
+- CPU Power Management (suggest making your own using [CPUFriendFriend](https://github.com/corpnewt/CPUFriendFriend))
 - Battery Indicator
 - Handoff, Continuity
 - AirPlay
