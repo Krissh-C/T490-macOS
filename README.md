@@ -1,6 +1,9 @@
 # Updates
 EFI for macOS Ventura is out. Built using latest stuff as of 11th December 2022
 
+# Issues
+For any issues, please open an issue or check if there's a solution already available in the issues section. Issues with solutions will be under closed issues. 
+
 # macOS on ThinkPad T490
 This repository is made to help run macOS on a ThinkPad T490.
 
@@ -63,7 +66,7 @@ This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen
 - Thunderbolt
 
 # Not Tested
-- USB-C Video
+- USB-C Video (audio works)
 - Sidecar
 
 # Credits
