@@ -57,17 +57,19 @@ This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen
 - Handoff, Continuity
 - AirPlay
 - FileVault
-- DRM Content (Netflix, Apple TV+)
+- DRM Content (more info below)
 - Fan Control using [YogaSMC](https://github.com/zhen-zen/YogaSMC)
 
 # What doesn't work
 - SD Card Reader
 - AirDrop
 - Thunderbolt
+- DRM on Safari, Apple TV, Quicktime, etc (Eg. For Netflix, use Chrome/Firefox/Your choice)
 
 # Not Tested
 - USB-C Video (audio works)
 - Sidecar
+- Universal Control
 
 # Credits
 - [Acidanthera](https://github.com/acidanthera)
