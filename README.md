@@ -1,5 +1,5 @@
 # Updates
-EFI for macOS Ventura is out. Built using latest stuff as of 11th December 2022
+Will update soon. Look out for new releases!
 
 # Issues
 For any issues, please open an issue or check if there's a solution already available in the issues section. Issues with solutions will be under closed issues. 
