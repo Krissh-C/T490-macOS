@@ -1,5 +1,8 @@
 # Updates
-Will update soon. Look out for new releases!
+Caught in the middle of exams!, please check back in a few weeks. Thanks for using my EFI!! 
+I'm trying to keep a monthly release schedule but I'm caught up in school.In the meantime, the current release should be okay (not guarenteed)
+Till next time,
+Stay Cool!
 
 # Issues
 For any issues, please open an issue or check if there's a solution already available in the issues section. Issues with solutions will be under closed issues. 
