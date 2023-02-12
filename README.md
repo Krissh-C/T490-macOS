@@ -1,5 +1,5 @@
 # Updates
-I will be taking a break from updating due to personal reasons. I'm not abandoning this project. Thanks for using my EFI!
+I will be taking a break from updating due to personal reasons. I'm not abandoning this project. Thanks for using my EFI! I will be active for issues though
 
 # Issues
 For any issues, please open an issue or check if there's a solution already available in the issues section. Issues with solutions will be under closed issues. 
