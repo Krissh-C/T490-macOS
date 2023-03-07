@@ -1,5 +1,5 @@
 # Updates
-Expect a new update soon. Finally got some free time on my hands. Active for issues!
+Expect a new update soon. Finally got some free time on my hands.
 
 # Issues
 For any issues, please open an issue or check if there's a solution already available in the issues section. Issues with solutions will be under closed issues. 
