@@ -1,5 +1,5 @@
 # Updates
-Released the latest version for 13.2.1 with OC 0.9.0
+Released the latest version for 13.4 with OC 0.9.2
 
 # Issues
 For any issues, please open an issue or check if there's a solution already available in the issues section. Issues with solutions will be under closed issues. 
