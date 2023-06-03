@@ -35,7 +35,7 @@ This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen
 |**Battery**| Single 50 Wh |
 
 # Screenshots
-![aboutmac](https://user-images.githubusercontent.com/117280851/207616017-8975c9c1-efeb-4435-8456-18c589f0d8a8.png)
+![Screenshot 2023-06-03 at 7 01 26 PM](https://github.com/Krissh-C/T490-macOS/assets/117280851/5fb19677-c076-4687-8bd6-cc688547fa91)
 
 # What Works
 - Keyboard (including all media keys)
