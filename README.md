@@ -61,7 +61,7 @@ This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen
 - Fan Control using [YogaSMC](https://github.com/zhen-zen/YogaSMC)
 - Sidecar (Wired)
 
-   ![Screenshot 2023-06-03 at 5 07 17 PM](https://github.com/Krissh-C/T490-macOS/assets/117280851/566c9e7e-b1bb-47cd-8fba-fb510fa01e53)
+   ![Screenshot 2023-06-03 at 5 21 12 PM](https://github.com/Krissh-C/T490-macOS/assets/117280851/b3556d43-9213-4b42-976e-c0a73bce78b1)
 
 
 # What doesn't work
