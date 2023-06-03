@@ -59,6 +59,10 @@ This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen
 - FileVault
 - DRM Content (more info below)
 - Fan Control using [YogaSMC](https://github.com/zhen-zen/YogaSMC)
+- Sidecar (Wired)
+
+   ![Screenshot 2023-06-03 at 5 07 17 PM](https://github.com/Krissh-C/T490-macOS/assets/117280851/566c9e7e-b1bb-47cd-8fba-fb510fa01e53)
+
 
 # What doesn't work
 - SD Card Reader
@@ -68,7 +72,6 @@ This hakcintosh will be complete only with [YogaSMC](https://github.com/zhen-zen
 
 # Not Tested
 - USB-C Video (audio works)
-- Sidecar
 - Universal Control
 
 # Credits
