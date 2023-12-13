@@ -1,5 +1,6 @@
 # Updates
-Released the latest version for 13.4 with OC 0.9.2
+Sunsetting this project. However I am still working on this for personal use. 
+Highly recommed [5T33Z0's EFI](https://github.com/5T33Z0/Thinkpad-T490-Hackintosh-OpenCore) for an alternative
 
 # Issues
 For any issues, please open an issue or check if there's a solution already available in the issues section. Issues with solutions will be under closed issues. 
